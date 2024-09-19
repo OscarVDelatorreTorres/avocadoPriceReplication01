@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/662266898.svg)](https://zenodo.org/doi/10.5281/zenodo.11320534)
 # Data repository of the paper: Non-commodity agricultural price hedging with minimum tracking error portfolios: the case of Mexican Hass avocado
 
 This repository is for the paper "Non-commodity agricultural price hedging with minimum tracking error portfolios: the case of Mexican Hass avocado" published in Agriculture in 2024.
