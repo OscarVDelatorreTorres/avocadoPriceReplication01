@@ -9,4 +9,4 @@ In this repository, the reader can find the following material:
    1. EfficientFront: This table shows the simulated volatility and expected return of the tracking-error efficient frontier, along with the mean-variance ones. It also shows the risk, CVAR, and expected return of the minimum variance portfolio in the tracking-error / expected return locus. This portfolio minimizes the tracking error between the simulated portfolio and the avocado price.
    2. 
 3. The original avocado historical price data from SNIIM
-4. The mean premium-Hass avocado price used in the data base as inout data.
+4. The mean premium-Hass avocado price used in the database as input data.
